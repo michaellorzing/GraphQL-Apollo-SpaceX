@@ -1,0 +1,28 @@
+{
+  "name": "GraphQL-Apollo-SpaceX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellorzing/GraphQL-Apollo-SpaceX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellorzing/GraphQL-Apollo-SpaceX/issues"
+  },
+  "homepage": "https://github.com/michaellorzing/GraphQL-Apollo-SpaceX#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1",
+    "nodemon": "^1.19.1"
+  }
+}
